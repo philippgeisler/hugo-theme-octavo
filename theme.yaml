@@ -1,0 +1,14 @@
+---
+name: "Octavo"
+license: "MIT"
+licenselink: "https://github.com/philippgeisler/hugo-theme-octavo/blob/master/LICENSE.md"
+description: ""
+homepage: "https://github.com/philippgeisler/hugo-theme-octavo"
+tags: ["blog", "minimal", "single-column"]
+features:
+min_version: 0.18
+
+[author]
+  name: "Philipp Geisler"
+  homepage: "http://philippgeisler.cc"
+---
